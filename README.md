@@ -1,32 +1,45 @@
-
 Built with Llama
+Built with Meta Llama 3
 Llama 3.1 is licensed under the Llama 3.1 Community License, Copyright © Meta Platforms, Inc. All Rights Reserved.
 Meta Llama 3 is licensed under the Meta Llama 3 Community License, Copyright © Meta Platforms, Inc. All Rights Reserved.
+License and terms of use are under the 'Meta' corporation's llama3_1 , llama3 , license and use policy.
 
-License and terms of use are inherited from the 'Meta' corporation's llama3_1 license and use policy.
+
+Llama 3 augment
+
+
 https://www.llama.com/llama3_1/license/
 https://www.llama.com/llama3_1/use-policy/
 https://about.meta.com/brand/resources/meta/company-brand/
 https://www.llama.com/llama3/license/
 https://www.llama.com/llama3/use-policy/
 
+https://www.llama.com/faq/
+
 Copies of these license and use policies, etc, to the extent required and/or appropriate, are included in appropriate subdirectories of a proper recursive download of any git repository used to distribute this project. 
 
-License, possible sub-license, etc, of datasets, etc, fine-tuned, etc, models, etc, merged, etc, derivative models, etc, may not or may be relevant, and may include 'cc-by-4.0' , 'Apache 2.0' , 'MIT', etc.
+License, possible sub-license, etc, of datasets, etc, fine-tuned, etc, models, etc, merged, etc, derivative models, etc, may not or may be relevant, and may or may not include 'Apache 2.0' , 'MIT' , 'cc-by-4.0' , and/or 'cc-by-nc-4.0', etc.
 
 https://www.apache.org/licenses/LICENSE-2.0.txt
 https://opensource.org/license/mit
 https://creativecommons.org/licenses/by/4.0/legalcode.txt
 https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt
 https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt
+https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by-sa/4.0/
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+https://creativecommons.org/licenses/by/3.0/
+https://creativecommons.org/licenses/by/2.0/
+https://creativecommons.org/licenses/by/1.0/
 
-Clarification from comments, documentation, etc, usually provided with the 'ubiquitous_bash' project, may or may not be relevant, which may or may not to some extent depend on which 'Llama-augment' model you have installed, which may or may not depend on which source code from where you used to install the 'Llama-augment' model .
+Clarification from comments, documentation, etc, usually provided with the 'ubiquitous_bash' project, may or may not be relevant, which may or may not to some extent depend on which 'Llama-3-augment' model you have installed, which may or may not depend on which source code from where you used to install the 'Llama-3-augment' model .
 
 https://github.com/mirage335-colossus/ubiquitous_bash/blob/master/ai/ollama/ollama.sh
 ./ai/ollama/ollama.sh
-./_local/knowledge/ubiquitous_bash/shortcuts/ai/ollama/LICENSE-Llama-3.1.txt
+./shortcuts/ai/ollama/Notice.txt
+./shortcuts/ai/ollama/LICENSE-Llama-3.1.txt
+./shortcuts/ai/ollama/LICENSE-Llama-3.txt
 ./_lib/kit/app/researchEngine/license-llama/
-
 
 DANGER!
 
@@ -53,6 +66,23 @@ In particular, any 'augment' model provided is with a extensive DISCLAIMER regar
 Nothing in this text is intended to allow for any legal liability to anyone for any and all use, distribution, copying, etc.
 
 
+		# "Llama 3" NeuralDaredevil-8B-abliterated
+		#
+		# NOTICE: This merged model is distributed under the following Creative Commons licenses:
+		# Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (for significant weight components, etc, originating from Llama-3 Soliloquy 8B v2)
+		# Creative Commons Attribution 4.0 International (CC BY 4.0) (for significant weight components, etc, originating from  Meta-Llama-3-8B-Instruct-DPO )
+		# And simultaneously subject to:
+		# Meta Llama 3 Community License
+		# Llama 3.1 Community License .
+
+
+
+
+https://github.com/mirage335-colossus/ubiquitous_bash/blob/master/shortcuts/ai/ollama/License-Llama-3-NeuralDaredevil-8B-abliterated.txt
+
+
+
+
 
 LEGAL
 
@@ -73,3 +103,5 @@ https://huggingface.co/QuantFactory/NeuralDaredevil-8B-abliterated-GGUF
 https://huggingface.co/QuantFactory/NeuralDaredevil-8B-abliterated-GGUF/tree/main
 https://web.archive.org/web/20250526124847/https://huggingface.co/QuantFactory/NeuralDaredevil-8B-abliterated-GGUF
 https://web.archive.org/web/20250206175259/https://huggingface.co/QuantFactory/NeuralDaredevil-8B-abliterated-GGUF/tree/main
+
+
