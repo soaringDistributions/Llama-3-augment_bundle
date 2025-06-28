@@ -1,15 +1,24 @@
 
 Built with Llama
 Llama 3.1 is licensed under the Llama 3.1 Community License, Copyright © Meta Platforms, Inc. All Rights Reserved.
+Meta Llama 3 is licensed under the Meta Llama 3 Community License, Copyright © Meta Platforms, Inc. All Rights Reserved.
 
 License and terms of use are inherited from the 'Meta' corporation's llama3_1 license and use policy.
 https://www.llama.com/llama3_1/license/
 https://www.llama.com/llama3_1/use-policy/
 https://about.meta.com/brand/resources/meta/company-brand/
+https://www.llama.com/llama3/license/
+https://www.llama.com/llama3/use-policy/
 
 Copies of these license and use policies, etc, to the extent required and/or appropriate, are included in appropriate subdirectories of a proper recursive download of any git repository used to distribute this project. 
 
 License, possible sub-license, etc, of datasets, etc, fine-tuned, etc, models, etc, merged, etc, derivative models, etc, may not or may be relevant, and may include 'cc-by-4.0' , 'Apache 2.0' , 'MIT', etc.
+
+https://www.apache.org/licenses/LICENSE-2.0.txt
+https://opensource.org/license/mit
+https://creativecommons.org/licenses/by/4.0/legalcode.txt
+https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt
 
 Clarification from comments, documentation, etc, usually provided with the 'ubiquitous_bash' project, may or may not be relevant, which may or may not to some extent depend on which 'Llama-augment' model you have installed, which may or may not depend on which source code from where you used to install the 'Llama-augment' model .
 
