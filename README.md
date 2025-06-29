@@ -86,7 +86,7 @@ https://github.com/mirage335-colossus/ubiquitous_bash/blob/master/shortcuts/ai/o
 
 LEGAL
 
-Attempts to achieve non-inclusive technology use outcomes by legal interpretation through means of reinterpretation by norms, precedent, understanding, etc, that did not enjoy widespread respected concensus among ethical lawyers by the year 2016, is CONTRARY to the INTENT of both Soaring Distributions LLC and of manager mirage335 .
+Attempts to achieve non-inclusive technology use outcomes by legal interpretation through means of reinterpretation by norms, precedent, understanding, etc, that did not enjoy widespread respected consensus among ethical lawyers by the year 2016, is CONTRARY to the INTENT of both Soaring Distributions LLC and of manager mirage335 .
 
 This text is intended to effectively PROHIBIT attempts to reintroduce liability through reinterpretation of this text or interpretation within any societal context. The intended outcome is to allow all inclusive use of this technology, and any legal interpretation based on working backwards from a desired outcome would only be respecting the plain meaning, reasonableness, or lack of situational absurdity, if the outcome was conclusive and consistent with, as stated above, prior legal best practice.
 
